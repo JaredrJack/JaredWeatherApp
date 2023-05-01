@@ -1,5 +1,5 @@
 # JaredWeatherApp
-![Alt](./assets/image/"WEATHERAPP.jpg"./)
+![Alt](".\assets\image\WEATHERAPP.jpg")
 
 ## Table of Contents  
 [Description](#description)  

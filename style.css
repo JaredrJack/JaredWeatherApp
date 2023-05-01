@@ -5,9 +5,12 @@
 
 header {
 	text-align: center;
-	color: white;
+	color: rgb(0, 0, 0);
 	padding: 20px;
+	background-color: dodgerblue;
+}
 
+body {
 }
 
 #city-info {
@@ -15,10 +18,13 @@ header {
 }
 
 .sidebar {
-	background-color: lightgray;
+	background-color: rgba(31, 107, 239, 0.549);
 	padding: 10px;
 }
 
+h3 
+
 .daycard {
 	margin: 10px;
+	color: rgb(190, 121, 9);
 }

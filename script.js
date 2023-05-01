@@ -1,8 +1,8 @@
-a//Operweather API Key //
-var apiKey = "e3bbb766e4d287c29747fa27da5ef845";
+//Operweather API Key //
+var APIKey = "e3bbb766e4d287c29747fa27da5ef845";
 var lastCitySearched;
 var storedCities;
-var cities = []
+var cities = [];
 
 if (localStorage.getItem("cities")) {
     storedCities = JSON.parse(localStorage.getItem("cities"));
