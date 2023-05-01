@@ -1,5 +1,6 @@
 # JaredWeatherApp
-![Alt](".\assets\image\WEATHERAPP.jpg")
+![weather app2](https://user-images.githubusercontent.com/120280613/235500227-bd45c297-90a0-4b4d-9b74-89f4b71575de.jpg)
+
 
 ## Table of Contents  
 [Description](#description)  
